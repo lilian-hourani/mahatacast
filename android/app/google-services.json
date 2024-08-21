@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752690289513",
+    "project_id": "podcastapp-2ea5a",
+    "storage_bucket": "podcastapp-2ea5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752690289513:android:bbb671bb2d8e77181c7bf8",
+        "android_client_info": {
+          "package_name": "com.example.mahatacast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIMwrfuvK0RXWvNKOhPV1Vs99WkmaDw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
